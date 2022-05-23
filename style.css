@@ -1,0 +1,27 @@
+body {
+	background-color: lightgreen;
+}
+
+.button {
+	margin: 1em;
+	border: 0.25em solid green;
+	padding: 1em;
+	border-radius: 1em;	
+
+	width: 20em;
+}
+
+.message {
+	font-size: 200%;
+	margin: 1em auto;
+	width: 20em;
+	padding: 1em;
+	background-color: lightcoral;
+	border-radius: 1em;	
+}
+
+.price {
+	padding : 1em;
+	border : 0.25em solid darkcyan;
+	border-radius: 1em;	
+}
